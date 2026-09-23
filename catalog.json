@@ -1,0 +1,26 @@
+{
+  "owner": "Ramu-DE",
+  "generated": "2026-09-23",
+  "groups": {
+    "eks-platform-engineering": [
+      "Platform_EKS",
+      "SaaS-platforms-using-Amazon-EKS-Auto-Mode-"
+    ],
+    "eks-ai-ml": [
+      "Building-production-ready-AI-Agents-on-Amazon-EKS",
+      "Customizing-LLMs-on-AWS-EKS",
+      "Optimize--Inference-EKS"
+    ],
+    "eks-security": [
+      "Secure-AI-Agents-on-AWS_EKS"
+    ],
+    "container-adjacent": [
+      "Migration-Modernization_Containes",
+      "Run-AI-agent-generated-code-securely"
+    ],
+    "pending-review": [
+      "LLM-inference",
+      "Durable_AIOperations"
+    ]
+  }
+}
