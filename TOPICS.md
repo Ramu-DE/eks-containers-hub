@@ -6,6 +6,7 @@ The topic application tool is maintained in the companion `eks-deep-dive` worksp
 
 | Repository | Topics to add |
 |---|---|
+| `eks-deep-dive` | `amazon-eks`, `kubernetes`, `containers`, `aws`, `eks-auto-mode`, `best-practices`, `documentation`, `tutorial`, `terraform`, `mermaid` |
 | `Customizing-LLMs-on-AWS-EKS` | `amazon-eks`, `kubernetes`, `containers`, `aws`, `llm`, `gpu`, `karpenter`, `machine-learning`, `workshop` |
 | `Building-production-ready-AI-Agents-on-Amazon-EKS` | `amazon-eks`, `kubernetes`, `containers`, `aws`, `eks-auto-mode`, `ai-agents`, `llm`, `observability`, `platform-engineering`, `workshop` |
 | `SaaS-platforms-using-Amazon-EKS-Auto-Mode-` | `amazon-eks`, `kubernetes`, `containers`, `aws`, `eks-auto-mode`, `saas`, `multi-tenancy`, `argo-cd`, `ack`, `kro`, `gitops` |

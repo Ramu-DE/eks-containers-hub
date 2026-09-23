@@ -26,6 +26,12 @@ flowchart TB
 
 ## Amazon EKS platform engineering
 
+### [Amazon EKS Deep Dive](https://github.com/Ramu-DE/eks-deep-dive)
+
+Detailed, diagram-driven guide covering EKS architecture, Auto Mode, networking, Pod Identity, storage, load balancing, security, reliability, scaling, upgrades, rollback, cost, advanced networking, Hybrid Nodes, Windows, and AI/ML operations.
+
+**Topics:** `amazon-eks`, `kubernetes`, `containers`, `aws`, `eks-auto-mode`, `best-practices`, `documentation`, `tutorial`, `terraform`, `mermaid`
+
 ### [Platform Engineering on EKS](https://github.com/Ramu-DE/Platform_EKS)
 
 Platform-engineering guide covering EKS Auto Mode, Terraform, networking, IAM, ECR, databases, Secrets Manager, and developer-platform patterns.
